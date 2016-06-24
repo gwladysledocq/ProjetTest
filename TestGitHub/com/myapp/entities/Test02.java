@@ -1,9 +1,9 @@
 package com.myapp.entities;
 
-public class Test1 {
+public class Test02 {
 
 	public static void main(String[] args) {
-		System.out.println("Bouh !");
+		System.out.println("Hey !");
 	}
 	
 }
